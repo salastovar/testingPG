@@ -1,2 +1,2 @@
 # testingPG
-Testing Repository only
+This is just for testing purposes
